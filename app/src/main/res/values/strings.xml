@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AttendanceAppCRUD</string>
+    <string name="add_attendance">add attendance</string>
+    <string name="get_attendance">get attendance</string>
+    <string name="id">ID</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="classs">Class</string>
+    <string name="subject">Subject</string>
+    <string name="attendance">Attendance</string>
+    <string name="save">save</string>
+    <string name="delete">delete</string>
+</resources>
